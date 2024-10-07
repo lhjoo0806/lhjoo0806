@@ -5,7 +5,7 @@ S/W Developer
 ### Skill Set
 |Sort|Skill|Logo|
 |--|--|--|
-|Programing Languages|C, Python, Java|![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)  ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)|
+|Programing Languages|C, Python, Java|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50">  ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)|
 |Framework/ Library|Vuejs, React|![Vuejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg) ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)|
 |Server|MySQL, Docker|![Mysql](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)|
 |Tooling/ DevOps|Docker, Github|![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg) ![Github]()|
