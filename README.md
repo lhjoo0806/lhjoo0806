@@ -9,7 +9,7 @@ S/W Developer
 |Framework/ Library|Vuejs, React|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="50">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"> |
 |Server|MySQL, Docker|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50">|
 |Tooling/ DevOps|Docker, Github|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50">  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="50">|
-|Environment|Window, Linux|<img src="https://i.namu.wiki/i/sJvpzyxvqAY9_beQQvogrdejQpw38Z8ps7XqGFoBIUsInHeyJbN1DsIHeyjb3MdJiNZRGLGyvqOZV9QiPUUMaef6vgWddkLvM6fr9cQLUwvlOMNVC-_Sz4VJ4at13aqMAdqw5iIGfuRKx1UoSkTBbQ.svg" width="50">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50">|
+|Environment|Window, Linux|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/768px-Windows_logo_-_2012.svg.png" width="50">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50">|
 |ETC|Notion|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7dd4QbQLB8hxmffcODP2Do6or9N54ZE0ZUg&s" width="50">|
 
 
