@@ -10,7 +10,7 @@ S/W Developer
 |Server|MySQL, Docker|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50">|
 |Tooling/ DevOps|Docker, Github|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50">  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="50">|
 |Environment|Window, Linux|<img src="https://i.namu.wiki/i/sJvpzyxvqAY9_beQQvogrdejQpw38Z8ps7XqGFoBIUsInHeyJbN1DsIHeyjb3MdJiNZRGLGyvqOZV9QiPUUMaef6vgWddkLvM6fr9cQLUwvlOMNVC-_Sz4VJ4at13aqMAdqw5iIGfuRKx1UoSkTBbQ.svg" width="50">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50">|
-|ETC|Notion|<img src="https://i.namu.wiki/i/nm51VCQfDhJFk2N7sIyg36VLfUx490MJfEaRsulm610g0dMMxz51JYFRusfr0nL4HZIGrjMs8LPjENpQk_vfuQ.svg" width="50">|
+|ETC|Notion|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7dd4QbQLB8hxmffcODP2Do6or9N54ZE0ZUg&s" width="50">|
 
 
 
